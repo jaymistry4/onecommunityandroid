@@ -1,0 +1,8 @@
+- Admin
+- right side menu 3 option, last option should be about account edit.
+
+Is Family Head
+and
+Matrimonial Active check box remove
+
+Add income field
